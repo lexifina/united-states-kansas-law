@@ -1,0 +1,26 @@
+CHAPTER 32
+House Bill No. 2214
+An Act concerning the department of corrections; relating to facilities; changing the name of the Larned correctional mental health facility to the Larned state correctional facility; removing references to facilities that no longer exist; amending K.S.A. 75-5202 and K.S.A. 2022 Supp. 75-52,167 and repealing the existing sections.
+Be it enacted by the Legislature of the State of Kansas:
+Section 1. K.S.A. 75-5202 is hereby amended to read as follows: 75-5202. As used in K.S.A. 75-5201 et seq., and amendments thereto, unless the context clearly requires otherwise:
+(a) “Secretary” means the secretary of corrections.
+(b) “Prisoner review board” means the prisoner review board established by K.S.A. 75-52,152, and amendments thereto.
+(c) “Inmate” means any person incarcerated in any correctional institution of the state of Kansas.
+(d) “Correctional institution” means the Lansing correctional facility, Hutchinson correctional facility, Topeka correctional facility, Norton correctional facility, Ellsworth correctional facility, Winfield correctional facility,<del> Osawatomie correctional facility,</del> Larned state correctional<del> mental health</del> facility,<del> Toronto correctional work facility,</del> Stockton correctional facility, Wichita work release facility, El Dorado correctional facility, any juvenile correctional facility or institution as defined in K.S.A. 38-2302, and amendments thereto, and any other correctional institution established by the state for the confinement of adult or juvenile offenders under the control of the secretary of corrections.
+(e) “Warden” means the person in charge of the operation and supervision of a correctional institution.
+(f) “Corrections officer” means a full-time, salaried officer or employee under the jurisdiction of the secretary, whose duties include the receipt, custody, control, maintenance, discipline, security and apprehension of persons convicted of criminal offense in this state and sentenced to a term of imprisonment under the custody of the secretary.
+(g) “Parole officer” means a full-time salaried officer or employee under the jurisdiction of the secretary whose duties include:
+(1) Investigation, supervision, arrest and control of persons on parole or postrelease supervision and the enforcement of the conditions of parole or postrelease supervision; and
+(2) services<del> which</del> that relate to probationers, parolees or persons on postrelease supervision and are required by the uniform act for out-of-state parolee supervision.
+Sec. 2. K.S.A. 2022 Supp. 75-52,167 is hereby amended to read as follows: 75-52,167. As used in K.S.A. 75-3739, and amendments thereto, and K.S.A. 2022 Supp. 75-52,167 through 75-52,171, and amendments thereto:
+(a) “Private entity” means any partnership, firm, association, corporation, sole proprietorship or other business organization, whether organized for profit or not-for-profit and includes any faith-based organization.
+(b) “Secretary” means the secretary of corrections.
+(c) “Public-private partnership” means the relationship established between the department of corrections and a private entity by contracting for the performance of any combination of specified functions or responsibilities to develop, finance, construct or renovate a building at a correctional institution where the department of corrections cost for development, finance, construction or renovation of such building does not exceed 25% of the total cost of the developing, financing, constructing or renovating such building.
+(d) “Correctional institution” means the<del> Lansing correctional facility, Hutchinson correctional facility, Topeka correctional facility, Norton correctional facility, Ellsworth correctional facility, Winfield correctional facility, Osawatomie correctional facility, Larned correctional mental health facility, Toronto correctional work facility, Stockton correctional facility, Wichita work release facility, El Dorado correctional facility, any juvenile correctional facility or institution as defined in K.S.A. 38-2302, and amendments thereto, and any other correctional institution established by the state for the confinement of adult or juvenile offenders under control of the secretary</del> same as defined in K.S.A. 75-5202, and amendments thereto.
+(e) “Public-private project” means the project to develop, finance, construct or renovate a building at a correctional institution pursuant to a public-private partnership.
+(f) “Faith-based organization” means any religious, charitable<del> and</del> or other organization<del> as defined by</del> described in article 17 of chapter 17 of the Kansas Statutes Annotated, and amendments thereto, or any other organization whose values are based on faith and beliefs, or both, that has a mission based on social values of the particular faith and whose members are from a particular faith group.
+(g) “Spiritual needs” means any program or service that addresses any issue related to sincerely held religious beliefs.
+Sec. 3. K.S.A. 75-5202 and K.S.A. 2022 Supp. 75-52,167 are hereby repealed.
+Sec. 4. This act shall take effect and be in force from and after its publication in the Kansas register.
+Approved April 18, 2023.
+Published in the Kansas Register April 27, 2023
