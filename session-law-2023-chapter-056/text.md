@@ -1,0 +1,40 @@
+CHAPTER 56
+House Bill No. 2279
+An Act concerning water; relating to groundwater management districts; requiring groundwater management districts to submit annual reports to the legislature; directing groundwater management districts to submit conservation and stabilization plans to the chief engineer; prohibiting groundwater management district board members from farming land owned by the district unless a request for proposal for farming such land is issued.
+Be it enacted by the Legislature of the State of Kansas:
+Section 1. (a) Not later than January 25 of each year, the board of each district shall submit to the house of representatives standing committee on water, the house of representatives standing committee on agriculture and natural resources, the senate standing committee on agriculture and natural resources and any other appropriate committees, and any successor committees, a written report on the budget, finances and activities of the district. A representative of the board shall appear before the committee upon request.
+(b) The annual report shall include, but not be limited to:
+(1) An itemized list of all income and the source from which the income was received, including any grants and interest income earned;
+(2) an itemized list of all expenditures by the board;
+(3) an accounting of all assets currently held by the board;
+(4) the most recent approved audit prepared in accordance with K.S.A. 75-1120a, and amendments thereto;
+(5) the budget adopted for the current year pursuant to K.S.A. 82a-1026, and amendments thereto;
+(6) a detailed description of the activities of the district; and
+(7) a detailed statement that explains how the expenditures by the board served to further the conservation and reduced consumptive use of groundwater, the prevention of economic deterioration and the stabilization of agriculture or otherwise supported implementation of the district’s management program.
+(c) Beginning in January 2025, the report shall summarize the action plans and activities undertaken pursuant to section 2, and amendments thereto.
+(d) Each year, each district shall publish the annual written report required by subsection (a) on the district’s website.
+(e) This section shall be a part of and supplemental to article 10 of chapter 82a of the Kansas Statutes Annotated, and amendments thereto.
+Sec. 2. (a) (1) Not later than July 1, 2024, the board of each district shall identify all priority areas of concern within each such board’s district and set reasonable boundaries for each area of concern using data from the Kansas geological survey or any other source approved by the chief engineer. Priority areas of concern include areas where:
+(A) The estimated usable lifetime of groundwater is 50 years or less or a similar measure of future water availability can be determined based on local water use and water level data; or
+(B) an unreasonable deterioration of the quality of groundwater is occurring.
+(2) Priority areas of concern may also include areas where:
+(A) Groundwater levels are declining or have declined excessively;
+(B) the rate of withdrawal of groundwater equals or exceeds the rate of recharge;
+(C) preventable waste of water is occurring or may occur;
+(D) an unreasonable deterioration of the quality of groundwater may occur; or
+(E) other areas identified by the board of a district and approved by the chief engineer.
+(3) After the board of each district identifies priority areas of concern, the board shall submit a report to the chief engineer detailing the priority areas of concern, the nature of such concern and how the areas were identified and developed.
+(4) (A) The board of each district shall conduct public education and outreach in each priority area so that the board may develop an action plan to reasonably address the identified concerns in each area based on input from the water right owners and users within the area. Such action plan shall be submitted to the chief engineer by July 1, 2026.
+(B) Within 90 calendar days after a district submits an action plan, or any subsequent updates to such action plans as described in subparagraph (C), to the chief engineer, the chief engineer shall review such district’s action plan and identified priority areas of concern. If such plan and priority areas are approved by the chief engineer, the chief engineer shall implement any action plan that requires action from the chief engineer. Once a district’s action plan has been approved by the chief engineer, the board of each district shall implement the action plan as soon as practicable and incorporate the action plan and priority areas into the district’s management program at the next annual review.
+(C) At least every five years, the board of each district shall review existing priority areas of concern, any action plans previously adopted and the district at large to identify any new areas that meet the priority area conditions. Upon such review, the board shall update its priority areas of concern and action plan as necessary and shall submit such findings and any updates to the chief engineer.
+(b) If a board fails to identify priority areas of concern within a district or to submit an action plan to address the concerns in each area identified, or subsequent updates to such action plans, or if a board submits a plan that fails to reasonably address the problems within each area identified, the chief engineer may:
+(1) Designate priority areas of concern in accordance with subsection (a);
+(2) create an action plan in accordance with subsection (a); and
+(3) take such corrective actions necessary under the authority granted to the chief engineer pursuant to the Kansas water appropriations act and Kansas groundwater management act to carry out the action plan.
+(c) Upon request of a board, the chief engineer shall review the activities previously undertaken by the board to determine if the board has already complied with some or all of the requirements of this section. All areas within a district that have adopted a local enhanced management area pursuant to K.S.A. 82a-1041, and amendments thereto, on July 1, 2023, shall be considered to be a priority area of concern with an approved action plan in compliance with the requirements of subsections (a)(1) and (a)(4)(B) until the first action plan review pursuant to subsection (a)(4)(C). All areas within a district that have an established intensive groundwater use control area established pursuant to K.S.A. 82a-1036, and amendments thereto, on July 1, 2023, shall be considered to be a priority area of concern with an approved action plan in compliance with the requirements of subsections (a)(1) and (a)(4)(B) until reviewed by the chief engineer pursuant to a schedule established in rules and regulations.
+(d) The Kansas department of agriculture, including the division of water resources and the division of conservation, chief engineer, Kansas water office, Kansas department of health and environment, state corporation commission, university of Kansas, Kansas geological survey, Kansas state university, Kansas state university extension system and local conservation districts shall provide assistance and support to each board as is reasonably necessary for the achievement of the goals set forth in this section. The Kansas water authority shall consider the efforts of such agencies to assist the districts when recommending appropriations of the state water plan fund.
+(e) This section shall be a part of and supplemental to article 10 of chapter 82a of the Kansas Statutes Annotated, and amendments thereto.
+Sec. 3. (a) If a district owns, purchases or otherwise acquires land, no member of the board of such district shall farm such land for profit unless the board issues a request for proposal for farming such land.
+(b) This section shall be a part of and supplemental to article 10 of chapter 82a of the Kansas Statutes Annotated, and amendments thereto.
+Sec. 4. This act shall take effect and be in force from and after its publication in the statute book.
+Approved April 20, 2023.
