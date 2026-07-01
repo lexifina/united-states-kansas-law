@@ -1,0 +1,9 @@
+CHAPTER 1
+House Bill No. 2183*
+An Act concerning state agencies; relating to interpretation of statutes, rules and regulations and documents with the force and effect of law; prohibiting deference to the agency’s interpretation by a state court or an administrative hearing officer hearing an administrative action.
+Be it enacted by the Legislature of the State of Kansas:
+Section 1. (a) In interpreting a state statute, rule and regulation or document that has the force and effect of law, a state court or an administrative hearing officer hearing an administrative action may consider but shall not defer to a state agency’s interpretation of such statute, rule and regulation or document and shall interpret the meaning and effect of such statute, rule and regulation or document de novo.
+(b) In an action brought by or against a state agency, after applying all customary tools of interpretation and rules of statutory construction pursuant to law, a state court or an administrative hearing officer hearing an administrative action shall exercise any remaining doubt in a way that is consistent with an individual’s fundamental constitutional rights.
+(c) As used in this section, “rule and regulation” and “state agency” mean the same as defined in K.S.A. 77-602, and amendments thereto.
+Sec. 2. This act shall take effect and be in force from and after its publication in the statute book.
+Approved February 5, 2026.
