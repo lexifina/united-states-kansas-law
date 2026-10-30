@@ -1,0 +1,9 @@
+{
+  "path": "us-ks",
+  "code": "KS",
+  "name": "Kansas",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-kansas-law",
+  "build": "built: Constitution of the State of Kansas; K.S.A. chapter 21 articles 51-99; chapter 17 articles 60-72",
+  "register_date": "2026-10-30"
+}

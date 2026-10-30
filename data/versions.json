@@ -1,0 +1,47 @@
+{
+ "country": "US-KS",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Kansas Constitution",
+   "title": "Constitution of the State of Kansas",
+   "url": "https://ksrevisor.gov/kanconst.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 134,
+     "source_url": "https://ksrevisor.gov/kanconst.html",
+     "sha256": "54c4d3e593de089da67e3b1b936e3f7b36602b445229c0a291c344fc7d07d127"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-21-criminal-code",
+   "short": "KSA ch. 21",
+   "title": "K.S.A. Chapter 21, Articles 51 to 99: Kansas Criminal Code and related crimes provisions",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch21.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 389,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch21.html",
+     "sha256": "077c34b29b8b9325c9bd4a6ca9cb2e364d022873e7df6c61ad96ae0af738cdce"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17-corporations",
+   "short": "KSA ch. 17",
+   "title": "K.S.A. Chapter 17, Articles 60 to 72: Kansas General Corporation Code and related provisions",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch17.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 158,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch17.html",
+     "sha256": "3c5dbbae31d3573ea4f59a495742482fa094409b36a43153df18e13441a3adc0"
+    }
+   ]
+  }
+ ]
+}
