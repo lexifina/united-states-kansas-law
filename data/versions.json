@@ -714,6 +714,244 @@
      "sha256": "65c40c8f9c74417eead7288c53e9b695fc65f129c38a406dbd90f575e75934ef"
     }
    ]
+  },
+  {
+   "slug": "chapter-55-oil-and-gas",
+   "short": "KSA ch. 55",
+   "title": "K.S.A. Chapter 55: Oil and Gas",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch55.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 403,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch55.html",
+     "sha256": "be79404d43b67ea4c0a216dd911a9c4f00eafaad1014fcac4dd421ff4ab78b2b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-56-partnerships",
+   "short": "KSA ch. 56",
+   "title": "K.S.A. Chapter 56: Partnerships",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch56.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 134,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch56.html",
+     "sha256": "91a77edcd0439afeac261488584d8ce11bf428b76760b34904150d237ea20f9b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-56a-kansas-uniform-partnership-act",
+   "short": "KSA ch. 56A",
+   "title": "K.S.A. Chapter 56A: Kansas Uniform Partnership Act",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch56a.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 69,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch56a.html",
+     "sha256": "5ce97f9fb392b85852f1642831ddaf4cc0ecb6316057b9a82766f86db30f3b96"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-57-patent-rights-and-copyrights",
+   "short": "KSA ch. 57",
+   "title": "K.S.A. Chapter 57: Patent Rights and Copyrights",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch57.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 20,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch57.html",
+     "sha256": "7d6a35ca76fd3107350ce2a0ec31efee08513c83d67baa5373f419c2871f5f62"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-58-personal-and-real-property",
+   "short": "KSA ch. 58",
+   "title": "K.S.A. Chapter 58: Personal and Real Property",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch58.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1187,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch58.html",
+     "sha256": "09e80881ef76604b669ad569b3f5e243127243110cc38ec3cebf5ff47276a302"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-58a-kansas-uniform-trust-code",
+   "short": "KSA ch. 58A",
+   "title": "K.S.A. Chapter 58A: Kansas Uniform Trust Code",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch58a.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 98,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch58a.html",
+     "sha256": "236114f3a7d041f6d0e10f56cacfbff8b0ea42d0d5738de9f5f63f413295f57e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-59-probate-code",
+   "short": "KSA ch. 59",
+   "title": "K.S.A. Chapter 59: Probate Code",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch59.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 827,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch59.html",
+     "sha256": "595f36008d25f9dbeaf747f65ebdfeda425a03398a8c7ec3425bd3316894ed58"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-60-procedure-civil",
+   "short": "KSA ch. 60",
+   "title": "K.S.A. Chapter 60: Procedure, Civil",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch60.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 738,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch60.html",
+     "sha256": "04680ec694935a022ec3b063a0bb2fe71d45c8d7eaae16390f12f0855a9e9ac7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-procedure-civil-for-limited-actions",
+   "short": "KSA ch. 61",
+   "title": "K.S.A. Chapter 61: Procedure, Civil, for Limited Actions",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch61.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 402,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch61.html",
+     "sha256": "495512312d8f01e9b43aab8f3c807ccb3382f661ddc193ab70e2522c34c3851c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-64-publications-bibliography-and-calendar",
+   "short": "KSA ch. 64",
+   "title": "K.S.A. Chapter 64: Publications, Bibliography and Calendar",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch64.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 14,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch64.html",
+     "sha256": "8010d89a2779a08af66e9b380fcfcb6f1acbf0f304e97bf23d917ffdecaa312b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-65-public-health",
+   "short": "KSA ch. 65",
+   "title": "K.S.A. Chapter 65: Public Health",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch65.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 2780,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch65.html",
+     "sha256": "4c14c68c8d12fe0bd45235f7a4b2c04d7a00bd5a862b82f633949ef38f8b2b09"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-66-public-utilities",
+   "short": "KSA ch. 66",
+   "title": "K.S.A. Chapter 66: Public Utilities",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch66.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 792,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch66.html",
+     "sha256": "7adda098692b148e604758502a06c5b15d58189c988a48dce87b5804640a1c9c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-68-roads-and-bridges",
+   "short": "KSA ch. 68",
+   "title": "K.S.A. Chapter 68: Roads and Bridges",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch68.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 813,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch68.html",
+     "sha256": "c632754a1134f48c82903b75cd6f17e13068a040112943753dba35b3899d81bf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-69-sabbath",
+   "short": "KSA ch. 69",
+   "title": "K.S.A. Chapter 69: Sabbath",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch69.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 5,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch69.html",
+     "sha256": "df6c2490750d2428a1a0fb1614eb34e2cac205aa4bf02b89ad1b2d81f6d37ec3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-70-salvage",
+   "short": "KSA ch. 70",
+   "title": "K.S.A. Chapter 70: Salvage",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch70.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 4,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch70.html",
+     "sha256": "11fa7833ac03b32fc62a5597e8cc2016e2dc61527fb1355359e5c22b228c7a79"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-70a-sand-and-gravel",
+   "short": "KSA ch. 70A",
+   "title": "K.S.A. Chapter 70A: Sand and Gravel",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch70a.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 18,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch70a.html",
+     "sha256": "89c1a3b8b6d96c529cf77bcb4b38788de868bbec1e9be276c1673ba0a8ac5cab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-71-schools-community-colleges",
+   "short": "KSA ch. 71",
+   "title": "K.S.A. Chapter 71: Schools—Community Colleges",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch71.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 152,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch71.html",
+     "sha256": "2ab23558f58523bd9e2ac9ba83e7b03d5781d86e944befad09fbdb14e884ca4c"
+    }
+   ]
   }
  ]
 }

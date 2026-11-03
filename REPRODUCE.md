@@ -66,12 +66,29 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-52-negotiable-instruments` | K.S.A. Chapter 52: Negotiable Instruments | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-53-notaries-public-and-commissioners` | K.S.A. Chapter 53: Notaries Public and Commissioners | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-54-oaths-and-affirmations` | K.S.A. Chapter 54: Oaths and Affirmations | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-55-oil-and-gas` | K.S.A. Chapter 55: Oil and Gas | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-56-partnerships` | K.S.A. Chapter 56: Partnerships | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-56a-kansas-uniform-partnership-act` | K.S.A. Chapter 56A: Kansas Uniform Partnership Act | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-57-patent-rights-and-copyrights` | K.S.A. Chapter 57: Patent Rights and Copyrights | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-58-personal-and-real-property` | K.S.A. Chapter 58: Personal and Real Property | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-58a-kansas-uniform-trust-code` | K.S.A. Chapter 58A: Kansas Uniform Trust Code | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-59-probate-code` | K.S.A. Chapter 59: Probate Code | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-60-procedure-civil` | K.S.A. Chapter 60: Procedure, Civil | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-61-procedure-civil-for-limited-actions` | K.S.A. Chapter 61: Procedure, Civil, for Limited Actions | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-64-publications-bibliography-and-calendar` | K.S.A. Chapter 64: Publications, Bibliography and Calendar | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-65-public-health` | K.S.A. Chapter 65: Public Health | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-66-public-utilities` | K.S.A. Chapter 66: Public Utilities | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-68-roads-and-bridges` | K.S.A. Chapter 68: Roads and Bridges | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-69-sabbath` | K.S.A. Chapter 69: Sabbath | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-70-salvage` | K.S.A. Chapter 70: Salvage | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-70a-sand-and-gravel` | K.S.A. Chapter 70A: Sand and Gravel | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-71-schools-community-colleges` | K.S.A. Chapter 71: Schools—Community Colleges | 1 | 2025-07-01 to 2025-07-01 |
 
-The build made 51 commits:
+The build made 68 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 51 | first version of an act |
+| 68 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -79,7 +96,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
-- 51 tags.
+- 68 tags.
 
 ## Dates
 
@@ -91,7 +108,7 @@ When a law gives no date of its own, the default rule applies: The Revisor publi
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2b5e93b5205c365b311a50a5cd7067f108ee0f01867dc7b7cdcf761d56ff18c8` (23461599 bytes).
+- Corpus: sha256 `1fa2bf1d00edfbbea6fa90b1c96039e43e2d3fe3403debfe8595246bb221115d` (34393260 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
