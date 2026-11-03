@@ -42,6 +42,146 @@
      "sha256": "3c5dbbae31d3573ea4f59a495742482fa094409b36a43153df18e13441a3adc0"
     }
    ]
+  },
+  {
+   "slug": "chapter-10-bonds-and-warrants",
+   "short": "KSA ch. 10",
+   "title": "K.S.A. Chapter 10: Bonds and Warrants",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch10.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 192,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch10.html",
+     "sha256": "8d9fbccc43b546db3f417672db0326d71e71f58567cc3d2cf1c0a8f5127b4786"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-11-census",
+   "short": "KSA ch. 11",
+   "title": "K.S.A. Chapter 11: Census",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch11.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 39,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch11.html",
+     "sha256": "c73dc3c01f9660ad32285795dae28d05b2618d28d2342200d8cbd82bb7b0af1b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-cities-and-municipalities",
+   "short": "KSA ch. 12",
+   "title": "K.S.A. Chapter 12: Cities and Municipalities",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch12.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 2039,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch12.html",
+     "sha256": "06ee9767a591f96ec087f8ca6bb07f5816fbc334ccb6eb081ecd9384d9c289d6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-cities-of-the-first-class",
+   "short": "KSA ch. 13",
+   "title": "K.S.A. Chapter 13: Cities of the First Class",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch13.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1103,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch13.html",
+     "sha256": "f9a2703623b54ca3ccb061139b38bb443fa6bfd0bc3b0dd69168df699a2db283"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-14-cities-of-the-second-class",
+   "short": "KSA ch. 14",
+   "title": "K.S.A. Chapter 14: Cities of the Second Class",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch14.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 424,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch14.html",
+     "sha256": "092811ab8e09dd6c41790f8fbd641172415678a07f200b2dd7b6dfbfa9f9dad3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15-cities-of-the-third-class",
+   "short": "KSA ch. 15",
+   "title": "K.S.A. Chapter 15: Cities of the Third Class",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch15.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 278,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch15.html",
+     "sha256": "e9c074678feb401be468b209563c173d8ad0d73e9c2ef6f2e102a5d70736dc60"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-contracts-and-promises",
+   "short": "KSA ch. 16",
+   "title": "K.S.A. Chapter 16: Contracts and Promises",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch16.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 247,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch16.html",
+     "sha256": "3c44d17deb3b06484846a909c8d82a7ecd9118a85aa60f1d842f088f1187a0ba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-consumer-credit-code",
+   "short": "KSA ch. 16A",
+   "title": "K.S.A. Chapter 16A: Consumer Credit Code",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch16a.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 150,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch16a.html",
+     "sha256": "884f4b4c933e1920c4a35ec7432222b7b1b027a9c72007273a12ae2cb978b165"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17-other-articles",
+   "short": "KSA ch. 17",
+   "title": "K.S.A. Chapter 17: Corporations (articles not in the first build)",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch17.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1547,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch17.html",
+     "sha256": "91c0bf51bf11e0bfe4cc5493beba2a52c06e32feb8f68ef9416d5aa953ede856"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-18-counties",
+   "short": "KSA ch. 18",
+   "title": "K.S.A. Chapter 18: Counties",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch18.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 133,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch18.html",
+     "sha256": "64f886f86057f78006b98c949ed105e6775f61d6d213ee52fcfb2d08b874204b"
+    }
+   ]
   }
  ]
 }
