@@ -182,6 +182,538 @@
      "sha256": "64f886f86057f78006b98c949ed105e6775f61d6d213ee52fcfb2d08b874204b"
     }
    ]
+  },
+  {
+   "slug": "chapter-19-counties-and-county-officers",
+   "short": "KSA ch. 19",
+   "title": "K.S.A. Chapter 19: Counties and County Officers",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch19.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1711,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch19.html",
+     "sha256": "4dcad983d89a14352d18a0b1ca6c2c514c7614cdac0e5349abd503073d5897c7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-20-courts",
+   "short": "KSA ch. 20",
+   "title": "K.S.A. Chapter 20: Courts",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch20.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 846,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch20.html",
+     "sha256": "d592f1bf1410916b6362aeb075d52752ef6dcc1ca5872571de58c8b8582ce7d8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-21-other-articles",
+   "short": "KSA ch. 21",
+   "title": "K.S.A. Chapter 21: Crimes and Punishments (articles not in the first build)",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch21.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 914,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch21.html",
+     "sha256": "d4764893626a47621aed64d2a10efe5bb814acd3cfd361ec371946e44a4fcaaa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-22-criminal-procedure",
+   "short": "KSA ch. 22",
+   "title": "K.S.A. Chapter 22: Criminal Procedure",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch22.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 467,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch22.html",
+     "sha256": "2981342d6983f636f065cae0730c3796d5ce913ed9b175fba1a803e640d3b28b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-22a-district-officers-and-employees",
+   "short": "KSA ch. 22A",
+   "title": "K.S.A. Chapter 22A: District Officers and Employees",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch22a.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 52,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch22a.html",
+     "sha256": "0e91fa396add32427a27724b340ae42387e31e5e04435634e921e0ce082ae752"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-23-kansas-family-law-code-revised",
+   "short": "KSA ch. 23",
+   "title": "K.S.A. Chapter 23: Kansas Family Law Code-Revised",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch23.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 552,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch23.html",
+     "sha256": "fee46fd508dd39b07f442495b85d7323fbeb8af4c3b5e176813ccaca7dbd8d5f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-24-drainage-and-levees",
+   "short": "KSA ch. 24",
+   "title": "K.S.A. Chapter 24: Drainage and Levees",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch24.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 387,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch24.html",
+     "sha256": "b4cf72e5b527108ff720dd1aeac652f062bac9862b143d41713f356f2dbb862e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25-elections",
+   "short": "KSA ch. 25",
+   "title": "K.S.A. Chapter 25: Elections",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch25.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 908,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch25.html",
+     "sha256": "624d0aa5a7cd9a5d3647389faea457e50f8f80fcf941b14dec36a1bceb20ee5c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-eminent-domain",
+   "short": "KSA ch. 26",
+   "title": "K.S.A. Chapter 26: Eminent Domain",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch26.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 42,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch26.html",
+     "sha256": "640d9abc700f583848c80ead17d94837045d33ccfd4dc4333c170af4d8ad6240"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26a-engineers",
+   "short": "KSA ch. 26A",
+   "title": "K.S.A. Chapter 26A: Engineers",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch26a.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 44,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch26a.html",
+     "sha256": "d07698317c4d4c5af5792d2d5d967cc0c54318db352a3421b8910f3d46ff4e9c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-federal-jurisdiction",
+   "short": "KSA ch. 27",
+   "title": "K.S.A. Chapter 27: Federal Jurisdiction",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch27.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 69,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch27.html",
+     "sha256": "4a73f5ceeb49fbc93d89059aa448c728bef33e1919ccf7b02b0b6c92390cf0a5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-fees-and-salaries",
+   "short": "KSA ch. 28",
+   "title": "K.S.A. Chapter 28: Fees and Salaries",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch28.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 352,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch28.html",
+     "sha256": "b7b82047b571ad230e31faed7318cec4e26fb57deeb2022f4649c43ed0943fff"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29-fences",
+   "short": "KSA ch. 29",
+   "title": "K.S.A. Chapter 29: Fences",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch29.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 48,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch29.html",
+     "sha256": "53118340e87ea139c3742a4a54bd04f2228e6b0ea11220e10ea62d633307f588"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-30-ferries",
+   "short": "KSA ch. 30",
+   "title": "K.S.A. Chapter 30: Ferries",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch30.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch30.html",
+     "sha256": "9329de4c016747e937ff307c451d2c1d42a44b271e4230452001a5a0ec470f60"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-fire-protection",
+   "short": "KSA ch. 31",
+   "title": "K.S.A. Chapter 31: Fire Protection",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch31.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 112,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch31.html",
+     "sha256": "e5823252b6a6b2f4629f72078aaae8ac338dd1a84a8d71e2d781317209bd1909"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32-wildlife-parks-and-recreation",
+   "short": "KSA ch. 32",
+   "title": "K.S.A. Chapter 32: Wildlife, Parks and Recreation",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch32.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 500,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch32.html",
+     "sha256": "59d30eb6da32a0673d4b5ce6e020896f6a6f5d78b40bb135a93d032dc6283fc9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-33-statute-of-frauds-fraudulent-conveyances",
+   "short": "KSA ch. 33",
+   "title": "K.S.A. Chapter 33: Statute of Frauds; Fraudulent Conveyances",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch33.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 21,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch33.html",
+     "sha256": "218c928bc6ef78baf9f1397677c9cf44cebe3cfcb121ee3be0b7f4853dd40608"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-34-grain-and-forage",
+   "short": "KSA ch. 34",
+   "title": "K.S.A. Chapter 34: Grain and Forage",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch34.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 167,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch34.html",
+     "sha256": "960dfacc7d4d23d9577c628fbdeb0f1111556ce6f49302e7843824672648f758"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35-holidays-and-days-of-commemoration",
+   "short": "KSA ch. 35",
+   "title": "K.S.A. Chapter 35: Holidays and Days of Commemoration",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch35.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 16,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch35.html",
+     "sha256": "aa11e40f7dbd9a51e63271093e6309506922097ada4ea731233f13dbbbc91091"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-hotels-lodginghouses-and-restaurants",
+   "short": "KSA ch. 36",
+   "title": "K.S.A. Chapter 36: Hotels, Lodginghouses and Restaurants",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch36.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 74,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch36.html",
+     "sha256": "3ddcb1fd2461a1cb35d8496f2e07b236afa20c2dfefd27d3926c4394051640dd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-impeachment",
+   "short": "KSA ch. 37",
+   "title": "K.S.A. Chapter 37: Impeachment",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch37.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 17,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch37.html",
+     "sha256": "7260ae3191ce6b02427c96bd2859668b05ec6325afd76f0c7f96a356835ad10b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-minors",
+   "short": "KSA ch. 38",
+   "title": "K.S.A. Chapter 38: Minors",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch38.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 927,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch38.html",
+     "sha256": "845eaea7e200d03a49d7fd104fca18999c90c64e02a0c6328e3b4deb9b248992"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39-dependent-persons-and-persons-with-disab",
+   "short": "KSA ch. 39",
+   "title": "K.S.A. Chapter 39: Dependent Persons and Persons With Disabilities; Social Welfare",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch39.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 543,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch39.html",
+     "sha256": "4220a3db919c3ad23e375d08f209ef94e1296aa8f25b5bc0835684150d1eecf6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-40-insurance",
+   "short": "KSA ch. 40",
+   "title": "K.S.A. Chapter 40: Insurance",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch40.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1748,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch40.html",
+     "sha256": "1b39cf917b9b11ba5ba513dce805f34d1f83f9aaa80796a9096935ae7ce5904e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-41-intoxicating-liquors-and-beverages",
+   "short": "KSA ch. 41",
+   "title": "K.S.A. Chapter 41: Intoxicating Liquors and Beverages",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch41.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 300,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch41.html",
+     "sha256": "2a684a595d88fc85317c2f165895d89d492c1d3442d9f36fbaf79bc3db6d31bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-42-irrigation",
+   "short": "KSA ch. 42",
+   "title": "K.S.A. Chapter 42: Irrigation",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch42.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 177,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch42.html",
+     "sha256": "d7412fa20cc440a27ff9c12aea55c05f6f8b13f0dc0a708bd8da0dafdab958f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-43-jurors",
+   "short": "KSA ch. 43",
+   "title": "K.S.A. Chapter 43: Jurors",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch43.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 69,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch43.html",
+     "sha256": "71bba0f8d8e2c4905d77178fe0261d0e7878b54d91660f38fb7951ad8a27d4b2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-44-labor-and-industries",
+   "short": "KSA ch. 44",
+   "title": "K.S.A. Chapter 44: Labor and Industries",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch44.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 652,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch44.html",
+     "sha256": "1274d2225354530b27dd81811a4bb1f114786b64baed67ed664bc44fec9c68d5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-45-public-records-documents-and-information",
+   "short": "KSA ch. 45",
+   "title": "K.S.A. Chapter 45: Public Records, Documents and Information",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch45.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 96,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch45.html",
+     "sha256": "84fb9a1edff9bddb764ba19c7d246ae82fdef63b588aa9dabf1c747bdeabad19"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-46-legislature",
+   "short": "KSA ch. 46",
+   "title": "K.S.A. Chapter 46: Legislature",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch46.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 357,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch46.html",
+     "sha256": "ef7783133491ceb21aeb6a60fe89288d3f803edb90fc3b60258ba3c37e34e197"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-livestock-and-domestic-animals",
+   "short": "KSA ch. 47",
+   "title": "K.S.A. Chapter 47: Livestock and Domestic Animals",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch47.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 461,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch47.html",
+     "sha256": "297a622a81797d1894d81d1404e9c2657e1ef2d42f9183a00169f0cbd00a802a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-48-militia-defense-and-public-safety",
+   "short": "KSA ch. 48",
+   "title": "K.S.A. Chapter 48: Militia, Defense and Public Safety",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch48.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 517,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch48.html",
+     "sha256": "6fe2185413f8d2f52911300fb199caf3cc2c887e0f40e941357759d59fce2c34"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-49-mines-and-mining",
+   "short": "KSA ch. 49",
+   "title": "K.S.A. Chapter 49: Mines and Mining",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch49.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 149,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch49.html",
+     "sha256": "2354ed220875e1d13da8d99a6e2904ed403dd81a18f67c2d2f1da7547278e510"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-50-unfair-trade-and-consumer-protection",
+   "short": "KSA ch. 50",
+   "title": "K.S.A. Chapter 50: Unfair Trade and Consumer Protection",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch50.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 369,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch50.html",
+     "sha256": "7f3ae11c016973d6c53aa31d92f854350826f46b142a8baa48a695d435085c04"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-51-motion-pictures",
+   "short": "KSA ch. 51",
+   "title": "K.S.A. Chapter 51: Motion Pictures",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch51.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 17,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch51.html",
+     "sha256": "9f25b6c774529f7f2910df5514c222604bf40b529bb3325adaf183c8a78f3f23"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-52-negotiable-instruments",
+   "short": "KSA ch. 52",
+   "title": "K.S.A. Chapter 52: Negotiable Instruments",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch52.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 132,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch52.html",
+     "sha256": "889d4c12072d1b44abdd00ad37e04fe0602c5f1210f5ed15f7347dbc20fbb6b4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-53-notaries-public-and-commissioners",
+   "short": "KSA ch. 53",
+   "title": "K.S.A. Chapter 53: Notaries Public and Commissioners",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch53.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 71,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch53.html",
+     "sha256": "87352ca28028eb93f534892540f4d9d9b5d1cc10507ba9d89523a84a7e2fc791"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-54-oaths-and-affirmations",
+   "short": "KSA ch. 54",
+   "title": "K.S.A. Chapter 54: Oaths and Affirmations",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch54.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 10,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch54.html",
+     "sha256": "65c40c8f9c74417eead7288c53e9b695fc65f129c38a406dbd90f575e75934ef"
+    }
+   ]
   }
  ]
 }

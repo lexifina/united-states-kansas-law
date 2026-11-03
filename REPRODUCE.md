@@ -28,12 +28,50 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-16a-consumer-credit-code` | K.S.A. Chapter 16A: Consumer Credit Code | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-17-other-articles` | K.S.A. Chapter 17: Corporations (articles not in the first build) | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-18-counties` | K.S.A. Chapter 18: Counties | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-19-counties-and-county-officers` | K.S.A. Chapter 19: Counties and County Officers | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-20-courts` | K.S.A. Chapter 20: Courts | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-21-other-articles` | K.S.A. Chapter 21: Crimes and Punishments (articles not in the first build) | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-22-criminal-procedure` | K.S.A. Chapter 22: Criminal Procedure | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-22a-district-officers-and-employees` | K.S.A. Chapter 22A: District Officers and Employees | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-23-kansas-family-law-code-revised` | K.S.A. Chapter 23: Kansas Family Law Code-Revised | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-24-drainage-and-levees` | K.S.A. Chapter 24: Drainage and Levees | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-25-elections` | K.S.A. Chapter 25: Elections | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-26-eminent-domain` | K.S.A. Chapter 26: Eminent Domain | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-26a-engineers` | K.S.A. Chapter 26A: Engineers | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-27-federal-jurisdiction` | K.S.A. Chapter 27: Federal Jurisdiction | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-28-fees-and-salaries` | K.S.A. Chapter 28: Fees and Salaries | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-29-fences` | K.S.A. Chapter 29: Fences | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-30-ferries` | K.S.A. Chapter 30: Ferries | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-31-fire-protection` | K.S.A. Chapter 31: Fire Protection | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-32-wildlife-parks-and-recreation` | K.S.A. Chapter 32: Wildlife, Parks and Recreation | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-33-statute-of-frauds-fraudulent-conveyances` | K.S.A. Chapter 33: Statute of Frauds; Fraudulent Conveyances | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-34-grain-and-forage` | K.S.A. Chapter 34: Grain and Forage | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-35-holidays-and-days-of-commemoration` | K.S.A. Chapter 35: Holidays and Days of Commemoration | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-36-hotels-lodginghouses-and-restaurants` | K.S.A. Chapter 36: Hotels, Lodginghouses and Restaurants | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-37-impeachment` | K.S.A. Chapter 37: Impeachment | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-38-minors` | K.S.A. Chapter 38: Minors | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-39-dependent-persons-and-persons-with-disab` | K.S.A. Chapter 39: Dependent Persons and Persons With Disabilities; Social Welfare | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-40-insurance` | K.S.A. Chapter 40: Insurance | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-41-intoxicating-liquors-and-beverages` | K.S.A. Chapter 41: Intoxicating Liquors and Beverages | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-42-irrigation` | K.S.A. Chapter 42: Irrigation | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-43-jurors` | K.S.A. Chapter 43: Jurors | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-44-labor-and-industries` | K.S.A. Chapter 44: Labor and Industries | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-45-public-records-documents-and-information` | K.S.A. Chapter 45: Public Records, Documents and Information | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-46-legislature` | K.S.A. Chapter 46: Legislature | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-47-livestock-and-domestic-animals` | K.S.A. Chapter 47: Livestock and Domestic Animals | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-48-militia-defense-and-public-safety` | K.S.A. Chapter 48: Militia, Defense and Public Safety | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-49-mines-and-mining` | K.S.A. Chapter 49: Mines and Mining | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-50-unfair-trade-and-consumer-protection` | K.S.A. Chapter 50: Unfair Trade and Consumer Protection | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-51-motion-pictures` | K.S.A. Chapter 51: Motion Pictures | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-52-negotiable-instruments` | K.S.A. Chapter 52: Negotiable Instruments | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-53-notaries-public-and-commissioners` | K.S.A. Chapter 53: Notaries Public and Commissioners | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-54-oaths-and-affirmations` | K.S.A. Chapter 54: Oaths and Affirmations | 1 | 2025-07-01 to 2025-07-01 |
 
-The build made 13 commits:
+The build made 51 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 13 | first version of an act |
+| 51 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -41,7 +79,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
-- 13 tags.
+- 51 tags.
 
 ## Dates
 
@@ -53,8 +91,8 @@ When a law gives no date of its own, the default rule applies: The Revisor publi
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `426289280f344511ff982bf82067e6fe19fba6daf87120f3ca44a8e4931f46ba` (7296565 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `2b5e93b5205c365b311a50a5cd7067f108ee0f01867dc7b7cdcf761d56ff18c8` (23461599 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
