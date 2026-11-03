@@ -952,6 +952,48 @@
      "sha256": "2ab23558f58523bd9e2ac9ba83e7b03d5781d86e944befad09fbdb14e884ca4c"
     }
    ]
+  },
+  {
+   "slug": "chapter-72-schools",
+   "short": "KSA ch. 72",
+   "title": "K.S.A. Chapter 72: Schools",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch72.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3398,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch72.html",
+     "sha256": "12a093be27e4a2f1d29727a5d9eb6aa9ab42907b3cf3965a329bd010bd053059"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-73-soldiers-sailors-and-patriotic-emblems",
+   "short": "KSA ch. 73",
+   "title": "K.S.A. Chapter 73: Soldiers, Sailors and Patriotic Emblems",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch73.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 277,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch73.html",
+     "sha256": "0fa29c48780864bcd0c4c5ec557261f0d0cb96f74c2550c624aee70e6b82b9f0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-74-state-boards-commissions-and-authorities",
+   "short": "KSA ch. 74",
+   "title": "K.S.A. Chapter 74: State Boards, Commissions and Authorities",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch74.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 2794,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch74.html",
+     "sha256": "6434cf68a693d6e2194b1084bb91ee7a931cde3ae47786d305f4ebbccaf83a50"
+    }
+   ]
   }
  ]
 }

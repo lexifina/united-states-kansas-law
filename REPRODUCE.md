@@ -83,12 +83,15 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-70-salvage` | K.S.A. Chapter 70: Salvage | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-70a-sand-and-gravel` | K.S.A. Chapter 70A: Sand and Gravel | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-71-schools-community-colleges` | K.S.A. Chapter 71: Schools—Community Colleges | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-72-schools` | K.S.A. Chapter 72: Schools | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-73-soldiers-sailors-and-patriotic-emblems` | K.S.A. Chapter 73: Soldiers, Sailors and Patriotic Emblems | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-74-state-boards-commissions-and-authorities` | K.S.A. Chapter 74: State Boards, Commissions and Authorities | 1 | 2025-07-01 to 2025-07-01 |
 
-The build made 68 commits:
+The build made 71 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 68 | first version of an act |
+| 71 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -96,7 +99,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
-- 68 tags.
+- 71 tags.
 
 ## Dates
 
@@ -108,7 +111,7 @@ When a law gives no date of its own, the default rule applies: The Revisor publi
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1fa2bf1d00edfbbea6fa90b1c96039e43e2d3fe3403debfe8595246bb221115d` (34393260 bytes).
+- Corpus: sha256 `5987b98c7910a2fb2f2df2948dafb5d0e2999900b9dfd271d49351cc58297481` (40685505 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
