@@ -1176,6 +1176,62 @@
      "sha256": "1db953bf48b2d9a2c412e3bb07869e76cc2fe558c1dcf35fb407a2b49ca48d05"
     }
    ]
+  },
+  {
+   "slug": "chapter-79-taxation",
+   "short": "KSA ch. 79",
+   "title": "K.S.A. Chapter 79: Taxation",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch79.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 2221,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch79.html",
+     "sha256": "4b1f40744113817a770c7aff33ba411456c8be5734986f1b37fc1025e29b1d82"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-80-townships-and-township-officers",
+   "short": "KSA ch. 80",
+   "title": "K.S.A. Chapter 80: Townships and Township Officers",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch80.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 490,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch80.html",
+     "sha256": "bdd0fc140d058108a320ac9ecc9c893a24f39396aa68a1bfbe5f9a4999de4677"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-81-trademarks-and-service-marks",
+   "short": "KSA ch. 81",
+   "title": "K.S.A. Chapter 81: Trademarks and Service Marks",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch81.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 37,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch81.html",
+     "sha256": "c80e87fcfd687ddc57d47daebae440692f8c1058d124610f34b3484bbdbebb19"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-82-warehouses",
+   "short": "KSA ch. 82",
+   "title": "K.S.A. Chapter 82: Warehouses",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch82.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 30,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch82.html",
+     "sha256": "f01377ef517a347c9323c4cdfdaa5f807eaab30ce7f4760290be81b62183d0ad"
+    }
+   ]
   }
  ]
 }
