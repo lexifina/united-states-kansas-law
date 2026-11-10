@@ -1,6 +1,6 @@
 # How this repository was made (United States (Kansas))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-10, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | --- | --- | --- | --- |
 | Kansas Office of Revisor of Statutes | <https://ksrevisor.gov/ksa.html> | 2026-10-30 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). Case annotations, history lines and prior-law notes omitted. |
 | Kansas Office of Revisor of Statutes, every K.S.A. chapter | <https://ksrevisor.gov/ksa.html> | 2026-11-03 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). Case annotations, history lines and prior-law notes omitted. |
+| Kansas Office of Revisor of Statutes, the K.S.A. chapters added 2026-11-10 (1 to 9, 75 to 84, 82a) | <https://ksrevisor.gov/ksa.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). Case annotations, history lines and prior-law notes omitted. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -86,20 +87,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-72-schools` | K.S.A. Chapter 72: Schools | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-73-soldiers-sailors-and-patriotic-emblems` | K.S.A. Chapter 73: Soldiers, Sailors and Patriotic Emblems | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-74-state-boards-commissions-and-authorities` | K.S.A. Chapter 74: State Boards, Commissions and Authorities | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-1-accountants-certified-public` | K.S.A. Chapter 1: Accountants; Certified Public | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-2-agriculture` | K.S.A. Chapter 2: Agriculture | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-3-aircraft-and-airfields` | K.S.A. Chapter 3: Aircraft and Airfields | 1 | 2025-07-01 to 2025-07-01 |
 
-The build made 71 commits:
+The build made 74 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 71 | first version of an act |
+| 74 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
-- 71 tags.
+- 74 tags.
 
 ## Dates
 
@@ -111,8 +115,8 @@ When a law gives no date of its own, the default rule applies: The Revisor publi
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5987b98c7910a2fb2f2df2948dafb5d0e2999900b9dfd271d49351cc58297481` (40685505 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `f1d6222f0782b00a11ccc5b205dadb781b01516cbdc647fff591d64050301e2f` (41709428 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -127,6 +131,7 @@ No second build of this corpus has been compared yet.
 - Scope: the State Constitution and the K.S.A. chapter by chapter (first build 2026-10-30: chapter 21 articles 51 to 99 and chapter 17 articles 60 to 72; the other chapters added from 2026-11-03).
 - Constitution sections eliminated by revision (heading only, no text) are omitted; case annotations, history lines and prior-law lines are dropped.
 - Wave 3 (2026-11-03): each other chapter is one act (for chapters 17 and 21, the articles not in the first build), in the oldest version available, dated 2025-07-01 like the first build: the Revisor's index still states (2026-11-03) that the statutes include the laws of the 2025 session. Sections give no in-force day of their own, so no amended section is dated from its original enactment. Credited to the Revisor.
+- Fill (2026-11-10): the chapters the wave-3 run had not published (1 to 9, 75 to 84 and 82a) were fetched again and added the same way, one act per chapter dated 2025-07-01: the Revisor's index still states (2026-11-10) that the statutes include the laws of the 2025 session.
 
 ## What AI did and did not do
 

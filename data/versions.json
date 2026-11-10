@@ -994,6 +994,48 @@
      "sha256": "6434cf68a693d6e2194b1084bb91ee7a931cde3ae47786d305f4ebbccaf83a50"
     }
    ]
+  },
+  {
+   "slug": "chapter-1-accountants-certified-public",
+   "short": "KSA ch. 1",
+   "title": "K.S.A. Chapter 1: Accountants; Certified Public",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch1.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 34,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch1.html",
+     "sha256": "15bc14eb570f759f38c86578d4448d864ca3c08f0bb1129c3878a973c850fea3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-2-agriculture",
+   "short": "KSA ch. 2",
+   "title": "K.S.A. Chapter 2: Agriculture",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch2.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 664,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch2.html",
+     "sha256": "cec8a80531d499604dbae72720c91176e00710c2035df76855225ba27113ba41"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-aircraft-and-airfields",
+   "short": "KSA ch. 3",
+   "title": "K.S.A. Chapter 3: Aircraft and Airfields",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch3.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 175,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch3.html",
+     "sha256": "8d896d886242b76f364a356061d3640a01b31e53a6f33daeed7387695aa2aa3b"
+    }
+   ]
   }
  ]
 }
