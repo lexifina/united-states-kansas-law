@@ -90,12 +90,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-1-accountants-certified-public` | K.S.A. Chapter 1: Accountants; Certified Public | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-2-agriculture` | K.S.A. Chapter 2: Agriculture | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-3-aircraft-and-airfields` | K.S.A. Chapter 3: Aircraft and Airfields | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-4-apportionment` | K.S.A. Chapter 4: Apportionment | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-5-arbitration-and-award` | K.S.A. Chapter 5: Arbitration and Award | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-6-architects` | K.S.A. Chapter 6: Architects | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-7-attorneys-at-law` | K.S.A. Chapter 7: Attorneys At Law | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-8-automobiles-and-other-vehicles` | K.S.A. Chapter 8: Automobiles and Other Vehicles | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-9-banks-and-banking-trust-companies` | K.S.A. Chapter 9: Banks and Banking; Trust Companies | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-75-state-departments-public-officers-and-em` | K.S.A. Chapter 75: State Departments; Public Officers and Employees | 1 | 2025-07-01 to 2025-07-01 |
 
-The build made 74 commits:
+The build made 81 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 74 | first version of an act |
+| 81 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -103,7 +110,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
-- 74 tags.
+- 81 tags.
 
 ## Dates
 
@@ -115,7 +122,7 @@ When a law gives no date of its own, the default rule applies: The Revisor publi
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f1d6222f0782b00a11ccc5b205dadb781b01516cbdc647fff591d64050301e2f` (41709428 bytes).
+- Corpus: sha256 `bd3f0b91ab80ea3d877b9d4c651ea668c993d54696776e190e7118167f8b88c5` (48643887 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

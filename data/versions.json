@@ -1036,6 +1036,104 @@
      "sha256": "8d896d886242b76f364a356061d3640a01b31e53a6f33daeed7387695aa2aa3b"
     }
    ]
+  },
+  {
+   "slug": "chapter-4-apportionment",
+   "short": "KSA ch. 4",
+   "title": "K.S.A. Chapter 4: Apportionment",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch4.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 287,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch4.html",
+     "sha256": "f00c413ff4bd662f77902c5e8e95cfa56f4471b6ce87dd11b095aa279b7cdc1c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-arbitration-and-award",
+   "short": "KSA ch. 5",
+   "title": "K.S.A. Chapter 5: Arbitration and Award",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch5.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 91,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch5.html",
+     "sha256": "465e0eed3dc5d13a2a1a0e50d91e593a5dcac22d0be2318668242d12efe3dfdc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-architects",
+   "short": "KSA ch. 6",
+   "title": "K.S.A. Chapter 6: Architects",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch6.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 41,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch6.html",
+     "sha256": "a547ea63c33b9c149c28af082e54bf9481673cfacc15b5cdfb220ac216d080f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7-attorneys-at-law",
+   "short": "KSA ch. 7",
+   "title": "K.S.A. Chapter 7: Attorneys At Law",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch7.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 24,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch7.html",
+     "sha256": "7835430584d39e64e00445d82908d16c8f51e52a5ad7cc36ad9b819b507b6ba3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8-automobiles-and-other-vehicles",
+   "short": "KSA ch. 8",
+   "title": "K.S.A. Chapter 8: Automobiles and Other Vehicles",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch8.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1266,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch8.html",
+     "sha256": "dfc6559a2ab57c87ed87dba3086db69ef8fdd12ea36ca0419f8e67967b962b69"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-banks-and-banking-trust-companies",
+   "short": "KSA ch. 9",
+   "title": "K.S.A. Chapter 9: Banks and Banking; Trust Companies",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch9.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 518,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch9.html",
+     "sha256": "28882ac818765c6b74b669d3d4acf181028531166abd492b4d2b1962962b348f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-75-state-departments-public-officers-and-em",
+   "short": "KSA ch. 75",
+   "title": "K.S.A. Chapter 75: State Departments; Public Officers and Employees",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch75.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3039,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch75.html",
+     "sha256": "09ea12eeecea3820229a3f6d3d53770c769cf1d261f27b29e458c003baacb44e"
+    }
+   ]
   }
  ]
 }
