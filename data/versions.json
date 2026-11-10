@@ -1134,6 +1134,48 @@
      "sha256": "09ea12eeecea3820229a3f6d3d53770c769cf1d261f27b29e458c003baacb44e"
     }
    ]
+  },
+  {
+   "slug": "chapter-76-state-institutions-and-agencies-historic",
+   "short": "KSA ch. 76",
+   "title": "K.S.A. Chapter 76: State Institutions and Agencies; Historical Property",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch76.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1346,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch76.html",
+     "sha256": "f2bde686fbde4d05d69087216bb5a983756a8987e99b87921d621b9c0a29c462"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-77-statutes-administrative-rules-and-regula",
+   "short": "KSA ch. 77",
+   "title": "K.S.A. Chapter 77: Statutes; Administrative Rules and Regulations and Procedure",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch77.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 202,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch77.html",
+     "sha256": "5a304307f13fcf71742a8e339dc17cc56969b8a2a6de4f68d59a64d1c92e5ec4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-78-suretyship",
+   "short": "KSA ch. 78",
+   "title": "K.S.A. Chapter 78: Suretyship",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch78.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 12,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch78.html",
+     "sha256": "1db953bf48b2d9a2c412e3bb07869e76cc2fe558c1dcf35fb407a2b49ca48d05"
+    }
+   ]
   }
  ]
 }

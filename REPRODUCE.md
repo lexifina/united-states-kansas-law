@@ -97,12 +97,15 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-8-automobiles-and-other-vehicles` | K.S.A. Chapter 8: Automobiles and Other Vehicles | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-9-banks-and-banking-trust-companies` | K.S.A. Chapter 9: Banks and Banking; Trust Companies | 1 | 2025-07-01 to 2025-07-01 |
 | `chapter-75-state-departments-public-officers-and-em` | K.S.A. Chapter 75: State Departments; Public Officers and Employees | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-76-state-institutions-and-agencies-historic` | K.S.A. Chapter 76: State Institutions and Agencies; Historical Property | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-77-statutes-administrative-rules-and-regula` | K.S.A. Chapter 77: Statutes; Administrative Rules and Regulations and Procedure | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-78-suretyship` | K.S.A. Chapter 78: Suretyship | 1 | 2025-07-01 to 2025-07-01 |
 
-The build made 81 commits:
+The build made 84 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 81 | first version of an act |
+| 84 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -110,7 +113,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
-- 81 tags.
+- 84 tags.
 
 ## Dates
 
@@ -122,7 +125,7 @@ When a law gives no date of its own, the default rule applies: The Revisor publi
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `bd3f0b91ab80ea3d877b9d4c651ea668c993d54696776e190e7118167f8b88c5` (48643887 bytes).
+- Corpus: sha256 `e781e8df23b06aa55a3c7240ef5c030c96c5f87e31e7655f65720a211f9f1627` (50256147 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
