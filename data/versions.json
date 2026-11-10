@@ -1232,6 +1232,48 @@
      "sha256": "f01377ef517a347c9323c4cdfdaa5f807eaab30ce7f4760290be81b62183d0ad"
     }
    ]
+  },
+  {
+   "slug": "chapter-82a-waters-and-watercourses",
+   "short": "KSA ch. 82A",
+   "title": "K.S.A. Chapter 82A: Waters and Watercourses",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch82a.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 545,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch82a.html",
+     "sha256": "233f0ba3ea552814a359a65254db04e4f038f1745c3a11f94e572b1fd5dc92fe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-83-weights-and-measures",
+   "short": "KSA ch. 83",
+   "title": "K.S.A. Chapter 83: Weights and Measures",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch83.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 100,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch83.html",
+     "sha256": "e125d1bf55d6bcd8574d4633c524c074c677ef98edbb0991eaefdae5789ec815"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-84-uniform-commercial-code",
+   "short": "KSA ch. 84",
+   "title": "K.S.A. Chapter 84: Uniform Commercial Code",
+   "url": "https://ksrevisor.gov/statutes/ksa_ch84.html",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 639,
+     "source_url": "https://ksrevisor.gov/statutes/ksa_ch84.html",
+     "sha256": "c22dc9840e1c07f5164ea5f7925f3c6745811c72e2ba225575cfb7f8a22950b0"
+    }
+   ]
   }
  ]
 }
