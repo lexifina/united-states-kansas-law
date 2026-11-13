@@ -1,5 +1,10 @@
 # Kansas: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Kansas law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Kansas law from the Office of Revisor of Statutes and the Secretary of State. Part of [lexifina/global-law](https://github.com/lexifina/global-law).
 
 ## Coverage
